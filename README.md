@@ -1,2 +1,0 @@
-# tarjeta_deploy
-

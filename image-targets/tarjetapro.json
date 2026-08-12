@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": true,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/tarjetapro_luminance.png",
+  "metadata": null,
+  "name": "tarjetapro",
+  "resources": {
+    "originalImage": "tarjetapro_original.png",
+    "croppedImage": "tarjetapro_cropped.png",
+    "thumbnailImage": "tarjetapro_thumbnail.png",
+    "luminanceImage": "tarjetapro_luminance.png"
+  },
+  "created": 1786551008768,
+  "updated": 1786551008768
+}
